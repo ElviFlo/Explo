@@ -102,7 +102,7 @@ This project includes accessibility best practices:
 
 ## 📦 Deployment
 
-*(deployed link)*
+[*(deployed link)*](https://explo-rm.vercel.app/)
 
 ---
 
